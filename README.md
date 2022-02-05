@@ -1,6 +1,14 @@
 ### Hi there 👋
 
+:japanese_castle: I'm a software engineer from Japan.
+
+:+1:I use PHP & JavaScript in my daily work.
+
 <!--
+
+Emoji Cheat Sheet
+https://www.webfx.com/tools/emoji-cheat-sheet/
+
 **T-unity/T-unity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
