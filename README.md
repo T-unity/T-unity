@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-:japanese_castle: I'm a software engineer from Japan.
+:japanese_castle: I'm a software engineer in Japan.
 
-:+1:I use PHP & JavaScript in my daily work.
+:+1:PHP & JavaScript.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-unity)](https://github.com/anuraghazra/github-readme-stats)
 
