@@ -1,8 +1,29 @@
-### Hi there 👋
+## Job career
 
-:japanese_castle: I'm a software engineer in Japan.
+### skills
 
-:+1:PHP & JavaScript.
+- PHP8：業務で1年以上使用
+- ES6：業務で半年以上使用
+- git,Github：業務で1年以上使用
+- Ruby,Rails,TypeScript,React,Python,AWS ...個人開発で使用
+
+### 2022/07 - now
+
+東京の事業開発会社でWebアプリ、ネイティブアプリのバックエンドAPIを作成予定。
+
+Ruby,Golang,Docker,AWS
+
+### 2021/04 - 2022/06
+
+大阪で、某Webインフラ系の企業にアプリケーションのエンジニアとして勤務。
+
+マークアップ、バックエンドロジックの作成を担当。
+
+### - 2021/03
+
+広告関係の自営業。
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-unity)](https://github.com/anuraghazra/github-readme-stats)
 
