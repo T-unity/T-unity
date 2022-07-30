@@ -19,7 +19,7 @@ PHP8 / ES6 / WordPress /
 
 ### - 2021/03
 
-自営業でSEOメディアの運営など。  
+SEOメディアの運営など。  
 
 ### other skills
 
