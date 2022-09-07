@@ -1,6 +1,6 @@
 ## profile
 
-- 東京都港区在住
+- 東京都港区西麻布在住
 - web developer 2年目
 
 ### 2022/07 - now
