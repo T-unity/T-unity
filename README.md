@@ -23,4 +23,4 @@ SEOメディアの運営など。
 
 ### other skills
 
-git / Github / SVN / some Atlassian's tools
+git / Github / Notion / JIRA
