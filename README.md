@@ -1,59 +1,42 @@
-## profile
+## About
 
-- 東京都渋谷区松濤在住
-- web developer 3年目（from 2021/04）
+- T-unity(Nariyoshi Takada)
+- 東京都渋谷区在住
+- web / App / Native
+
+## Career
+
+### 2023/09 - 
+
+ネット広告配信システムのサーバーサイド実装を担当。
 
 ### 2023/02 - 
 
-新規事業now
+新規事業のDev, BizDevを担当。
 
 ### 2022/07 - 2023/01
 
-ネイティブアプリケーションのサーバーサイド処理を作成。  
-既存処理の拡張、新規機能の設計や実装など、基本的にサーバーサイドの実装をメインで行いつつ、JavaScript、WebView等クライアント側の実装も担当。
-
-#### 実装内容
-
-- 新規機能の設計、実装、運用・改善
-  - リリースまでの全体設計、Biz,デザインとの擦り合わせ、日程調整等
-  - DB、モデル設計、実装
-  - コントローラ実装（一般的なRailsのCRUD）
-  - FetchAPIを用いた非同期処理によるレコードの作成、更新
-  - タスクの作成（whenever / Sidekiq / AWS::SNS）
-
-- 既存機能のリプレイス
-  - 既存機能の拡張に関わる設計の検討等
-  - 認証（認可）の拡張
-  - マークアップ
-
-- その他開発環境の整備や、gemのアップデートなど
-
-#### 使用技術
-
-[アプリケーション]  
-Ruby3 / Rails6 / ES6  
-その他認証、決済に関するSDKなど
-
-[CI]  
-rspec / github actions
-
-[基盤]  
-AWS / EC2(非Docker) / S3 / Lambda(Ruby) ...  
-その他認証系基盤など
-
-[モニタリング]  
-Sentry / cloudwatch
-
-[開発ツール]  
-Docker / git / Github / Slack / Notion / JIRA...
+ネイティブアプリケーションのサーバーサイド処理を担当。
 
 ### 2021/04 - 2022/06
 
-Webインフラ系の企業（サーバー会社）でアプリケーションエンジニア。
-WordPressに関連した制作系の業務を行いクライアント（マークアップ、JS）の処理作成、バックエンド処理において機能単位での設計、コーディングを担当。
-
-PHP8 / ES6 / WordPress /
+レンタルサーバーのホスティング企業においてアプリケーションレイヤーの実装を担当。
 
 ### - 2021/03
 
 SEOメディアの運営など。  
+
+## experience
+
+### App
+Golang / Python / Ruby / ES6 / PHP
+Rails / Wordpress/  VTL(Velocity Template Language)
+
+### CI
+rspec / github actions
+
+### other
+AWS
+
+### env
+Docker / git / Github / Slack / Notion / JIRA...
