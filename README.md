@@ -8,7 +8,7 @@
 
 ### 2023/09 - 
 
-ネット広告配信システムのサーバーサイド実装を担当。
+アフィリエイト広告配信システムのサーバーサイド実装を担当。
 
 ### 2023/02 - 2023/09
 
@@ -33,7 +33,7 @@ Golang / Python / Ruby / ES6 / PHP
 Rails / Wordpress/  VTL(Velocity Template Language)
 
 ### CI
-rspec / github actions
+gotest / rspec / github actions
 
 ### other
 AWS
