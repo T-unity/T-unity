@@ -5,10 +5,12 @@
 ## About
 
 - T-unity(Nariyoshi Takada)
-- 東京都渋谷区在住
+- 東京都渋谷区在住 / ハチ公から徒歩十分
 - web / App / Native
 
 ## Career
+
+経験社数: 2社
 
 ### 2023/09 - 
 
@@ -20,27 +22,29 @@
 
 ### 2022/07 - 2023/02
 
-ネイティブアプリケーションのサーバーサイド処理を担当。
+ネイティブアプリ（iOS, Android）のサーバーサイド処理を担当。
 
 ### 2021/04 - 2022/06
 
-レンタルサーバーのホスティング企業においてアプリケーションの実装を担当。
+ワードプレスのテーマ開発を担当。
 
 ### - 2021/03
 
-SEOメディアの運営など。  
+SEOメディアの運営、ライティングなど。 
 
 ## experience
 
-### App
-Golang / Python / Ruby / ES6 / PHP
-Rails / Wordpress/  VTL(Velocity Template Language)
+### programming language
+Golang / Python / Ruby / TypeScript / PHP / VTL(Velocity Template Language)
+
+### Flameworks
+Rails / Wordpress
 
 ### CI
 gotest / rspec / github actions
 
-### other
+### Cloud
 AWS
 
-### env
-Docker / git / Github / Slack / Notion / JIRA...
+### development tools
+Docker / git / Github / Slack / Notion / JIRA ...
