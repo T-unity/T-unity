@@ -6,7 +6,7 @@
 
 - T-unity(Nariyoshi Takada)
 - 東京都渋谷区在住 / ハチ公から徒歩十分
-- web / App / Native
+- web / Native
 
 ## Career
 
