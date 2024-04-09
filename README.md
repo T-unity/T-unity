@@ -1,6 +1,6 @@
 ## Services provided
 
-- https://synapse.gynga.org/
+- https://gateway.gynga.org/
 
 ## About
 
