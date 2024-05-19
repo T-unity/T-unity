@@ -2,6 +2,12 @@
 
 - https://gateway.gynga.org/
 
+## Output
+
+- https://t-unity.notion.site/214806ab11474f9585718013113df6a4?v=1fb591db1595457da400d99220b9fae2
+
+- https://qiita.com/T_unity
+
 ## About
 
 - T-unity(Nariyoshi Takada)
