@@ -2,8 +2,9 @@
 
 | 名前 | T-unity（Nariyoshi Takada） |
 |--|--|
-| 居住地 | 渋谷区 |
+| 居住地 | 東京都 渋谷区 |
 | Github | https://github.com/T-unity |
+| LinkedIn | https://www.linkedin.com/in/nariyoshi-takada-6a4a39368/ |
 | 個人開発 | https://gateway.gynga.org/ |
 | X | https://x.com/t___unity |
 | Qiita | https://qiita.com/T_unity |
@@ -29,6 +30,16 @@ Webアプリケーション開発において、特に0→1の新規サービス
 - **Database:** MySQL, DynamoDB
 - **CI/CD:** GitHub Actions
 - **その他:** アジャイル開発, スクラム, コードレビュー, API設計(REST, OpenAPI)
+
+# 職歴
+
+| 期間 | 所属 |
+|--|--|
+| 2024/12 ~ 現在 | 現職 |
+| 2022/07 ~ 2024/12 | [株式会社フクロウラボ](https://fukurou-labo.co.jp/) |
+| 2021/04 ~ 2022/06 | [エックスサーバー株式会社](https://www.xserver.co.jp/) |
+| 2020/04 ~ 2021/03 | キャリアブレイク |
+| 2016/04 ~ 2020/04 | 個人事業 |
 
 # 業務経歴
 
